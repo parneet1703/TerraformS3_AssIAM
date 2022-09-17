@@ -1,0 +1,3 @@
+variable "gpname" {
+  type = string
+}
